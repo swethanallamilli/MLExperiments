@@ -1,0 +1,10 @@
+Panaji,15.4909,73.8278,Raichur/457,Mangalore/367,Bellari/409
+Raichur,16.2076,77.3463,Panaji/457,Tirupati/453,Kurnool/100
+Mangalore,12.9141,74.856,Panaji/365,Kozhikode/233,Bangalore/352
+Bellari,15.1394,76.9214,Panaji/409,Bangalore/311,Tirupati/379
+Tirupati,13.6288,79.4192,Bellari/379,Raichur/453,Kurnool/340,Nellore/136,Chennai/153
+Kurnool,15.8281,78.0373,Raichur/100,Tirupati/340,Nellore/325
+Kozhikode,11.2588,75.7804,Mangalore/233,Bangalore/356
+Bangalore,12.9716,77.5946,Kozikode/356,Mangalore/352,Bellari/311,Chennai/346
+Nellore,14.4426,79.9865,Tirupati/136,Kurnool/325,Chennai/175
+Chennai,13.0827,80.2707
